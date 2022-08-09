@@ -25,7 +25,3 @@ Thank You!. For Using Me!!!.
 
 Mᴀᴅᴇ Wɪᴛʜ Lᴏᴠᴇ Fᴏʀ [Yᴏᴜ](tg://settings)"""
 
-else:
-        await update.message.delete()
-
-Bot.run()
